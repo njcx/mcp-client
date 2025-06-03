@@ -16,3 +16,6 @@ MCP-Server配置：
 LLM配置：
 
     修改mcp-server-config.json  llm字段， 支持所有 OpenAI API 格式的API， 需要支持 Function Call（工具调用）。
+
+
+![test](92e24.jpg)
