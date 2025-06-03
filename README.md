@@ -6,4 +6,4 @@
 
     1,  启动openai api :  python main-api.py
 
-    2， 启动 stdio cli  :  python cli.py   # just for test
+    2,  启动 stdio cli  :  python cli.py   # just for test
