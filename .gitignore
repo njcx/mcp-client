@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+uv.lock
+
+# Virtual environments
+venv/
+.venv
+.env
+
+# jetbrains files
+.idea/
